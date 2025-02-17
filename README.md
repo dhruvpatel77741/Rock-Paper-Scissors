@@ -29,7 +29,7 @@ The game keeps track of the scores for both the user and the computer.
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/dhruvpatel77741/rock-paper-scissors.git
 
 2. Navigate into the project directory:
    ```bash
