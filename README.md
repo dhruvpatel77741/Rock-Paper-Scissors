@@ -38,18 +38,5 @@ The game keeps track of the scores for both the user and the computer.
 3. Open the index.html file in your web browser to start playing the game.
 
 
-## Files Structure
-
-rock-paper-scissors/
-│
-├── index.html       # The main HTML file
-├── styles.css       # CSS file for styling
-├── app.js           # JavaScript file for game logic
-└── images/
-    ├── rock.png     # Image for Rock
-    ├── paper.png    # Image for Paper
-    └── scissors.png # Image for Scissors
-
-
 ## Contribution
 Feel free to fork this repository and submit pull requests. If you have any improvements or bug fixes, don't hesitate to contribute!
