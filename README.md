@@ -33,7 +33,7 @@ The game keeps track of the scores for both the user and the computer.
 
 2. Navigate into the project directory:
    ```bash
-   cd rock-paper-scissors
+   cd Rock-Paper-Scissors
 
 3. Open the index.html file in your web browser to start playing the game.
 
